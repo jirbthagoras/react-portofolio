@@ -8,7 +8,7 @@ const Navbar = () =>
             <div className="container mx-auto flex items-center justify-between">
                 <div>
                     <img src={`${mbakAsai}`} alt="Ini Asai"
-                         className="object-scale-down h-20 max-w-full drop-shadow-md rounded-md"/>
+                         className="object-scale-down h-20 max-w-full drop-shadow-md rounded-full"/>
 
                 </div>
                 <div>
